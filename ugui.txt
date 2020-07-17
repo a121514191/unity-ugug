@@ -1,15 +1,14 @@
-# unity-ugug
+當天筆記紀錄
 
+將別人的sample copy 來試做
 
-紀錄
-
-將別人的sample copy來試做
+首先是完全複製版
 
 ★變動項目 ●有新功能尚未查詢
 
 Image   (原先就有) 
 
-    ★1.Source Image 圖片來源
+   ★1.Source Image 圖片來源
 	
 		點擊⊙，會將所有Sprite(2D and UI)的檔案列出來讓你使用
 
@@ -62,9 +61,16 @@ Button  (原先就有)
 	
 Audio Source  (需要新增[Add Component]) 
 
-實際講解
 
 Animator      (需要新增[Add Component]) 
 
-實際講解
+()---------------
 
+1.
+editor and runtime  
+runtime only
+
+2.
+Assets/Scripts/MenuManager.cs (runtime only)
+
+3.
